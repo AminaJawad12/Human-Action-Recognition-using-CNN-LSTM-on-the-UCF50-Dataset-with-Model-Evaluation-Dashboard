@@ -33,7 +33,11 @@ Human Action Recognition using **CNN + LSTM** is an end-to-end deep learning pro
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
-- Jupyter Notebook / Google Colab  
+- Jupyter Notebook / Google Colab
+- 
+## 📈 Result Screenshot
+
+![Result Screenshot](https://github.com/AminaJawad12/Human-Action-Recognition-using-CNN-LSTM-on-the-UCF50-Dataset-with-Model-Evaluation-Dashboard/blob/main/Result%20image.jpeg?raw=true)
 
 
 
