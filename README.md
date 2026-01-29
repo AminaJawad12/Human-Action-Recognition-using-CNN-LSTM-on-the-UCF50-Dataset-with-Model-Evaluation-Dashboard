@@ -36,34 +36,29 @@ Human Action Recognition using **CNN + LSTM** is an end-to-end deep learning pro
 - Jupyter Notebook / Google Colab  
 
 ---
-
 ## 🚀 How to Run the Project
 
-### 1. Clone the Repository
 ```bash
+# 1. Clone the Repository
 git clone https://github.com/AminaJawad12/Human-Action-Recognition-using-CNN-LSTM-on-the-UCF50-Dataset-with-Model-Evaluation-Dashboard.git
 cd Human-Action-Recognition-using-CNN-LSTM-on-the-UCF50-Dataset-with-Model-Evaluation-Dashboard
 
-### 2. Install Dependencies
-
-Make sure you have Python 3.8+ installed, then run:
-
-```bash
+# 2. Install Dependencies
+# Make sure you have Python 3.8+ installed
 pip install -r requirements.txt
 
-### 3. Run the Notebook
+# 3. Run the Notebook in Google Colab
+# Open Google Colab: https://colab.research.google.com/
+# Click "File → Upload notebook" or "Open notebook from GitHub"
+# Navigate to the notebook:
+# notebooks/Human_Action_Recognition_CNN_LSTM.ipynb
 
-Open the notebook in **Google Colab**:
+# 4. Execute the cells sequentially to:
+# - Preprocess the dataset
+# - Train the CNN-LSTM model
+# - Evaluate the model
+# - Visualize predictions on videos
 
-1. Go to [Google Colab](https://colab.research.google.com/).  
-2. Click **File → Upload notebook** or **Open notebook from GitHub**.  
-
-### 4. Execute the cells sequentially to:
-
-- Preprocess the dataset
-- Train the CNN-LSTM model
-- Evaluate the model
-- Visualize predictions on videos
 
 
 
