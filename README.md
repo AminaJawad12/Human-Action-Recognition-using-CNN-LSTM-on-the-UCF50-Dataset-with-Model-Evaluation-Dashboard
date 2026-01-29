@@ -1,0 +1,2 @@
+# Human-Action-Recognition-using-CNN-LSTM-on-the-UCF50-Dataset-with-Model-Evaluation-Dashboard
+Human Action Recognition using CNN + LSTM is an end-to-end deep learning project on the UCF50 dataset that classifies human activities from video sequences. CNN extracts spatial features from frames, while LSTM captures temporal motion patterns. A results dashboard presents final accuracy and evaluation outputs.
