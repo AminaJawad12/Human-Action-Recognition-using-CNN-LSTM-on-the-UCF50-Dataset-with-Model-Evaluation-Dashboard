@@ -37,21 +37,6 @@ Human Action Recognition using **CNN + LSTM** is an end-to-end deep learning pro
 
 ---
 
-## 📁 Project Structure
-
-Human_Action_Recognition_CNN_LSTM/
-│
-├── notebooks/ # Jupyter notebook implementation
-├── dataset/ # Place your UCF50 dataset here
-├── models/ # Saved trained model (optional)
-├── results/ # Accuracy and evaluation outputs
-├── report/ # Project report (PDF)
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository
@@ -59,29 +44,28 @@ Human_Action_Recognition_CNN_LSTM/
 git clone https://github.com/AminaJawad12/Human-Action-Recognition-using-CNN-LSTM-on-the-UCF50-Dataset-with-Model-Evaluation-Dashboard.git
 cd Human-Action-Recognition-using-CNN-LSTM-on-the-UCF50-Dataset-with-Model-Evaluation-Dashboard
 
-###2. Install Dependencies
+### 2. Install Dependencies
+
 Make sure you have Python 3.8+ installed, then run:
+
+```bash
 pip install -r requirements.txt
 
-###3. Run the Notebook
-Open Jupyter Notebook:
-jupyter notebook
-Navigate to:
+### 3. Run the Notebook
 
-notebooks/Human_Action_Recognition_CNN_LSTM.ipynb
+Open the notebook in **Google Colab**:
 
-Execute the cells sequentially to:
+1. Go to [Google Colab](https://colab.research.google.com/).  
+2. Click **File → Upload notebook** or **Open notebook from GitHub**.  
 
-Preprocess the dataset
+### 4. Execute the cells sequentially to:
 
-Train the CNN-LSTM model
+- Preprocess the dataset
+- Train the CNN-LSTM model
+- Evaluate the model
+- Visualize predictions on videos
 
-Evaluate the model
 
-Visualize predictions on videos
 
-## 📊 Results
 
-<img width="1287" height="779" alt="image" src="https://github.com/user-attachments/assets/dbfb98b3-bc55-4b4a-9f5b-060f07ee53f4" />
 
-  
