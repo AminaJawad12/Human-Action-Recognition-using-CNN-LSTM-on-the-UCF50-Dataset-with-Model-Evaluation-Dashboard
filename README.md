@@ -59,6 +59,10 @@ pip install -r requirements.txt
 # - Evaluate the model
 # - Visualize predictions on videos
 
+## Result Screenshot
+
+![Result Screenshot](https://raw.githubusercontent.com/AminaJawad12/Human-Action-Recognition-using-CNN-LSTM-on-the-UCF50-Dataset-with-Model-Evaluation-Dashboard/5598aef23e8e67c0d8625abf4ad168e7434fdd18/Result%20image.jpeg)
+
 
 
 
